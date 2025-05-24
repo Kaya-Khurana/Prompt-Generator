@@ -1,7 +1,5 @@
 # Prompt Generator
 
-
-
 A web-based tool for dynamically generating creative prompts for writing, coding, AI art, storytelling, productivity, and learning. Built with JavaScript (Node.js + Express backend, HTML/CSS + Vanilla JavaScript frontend), Prompt Generator sparks creativity with customizable, categorized, and shareable prompts.
 
 
@@ -37,9 +35,14 @@ A web-based tool for dynamically generating creative prompts for writing, coding
 
 # Tech Stack
 
-Frontend: HTML, CSS, Vanilla JavaScript (React optional)
-Backend: Node.js, Express.js
-Database (Optional): MongoDB, JSON, or Local File Storage
-API Integration (Optional): OpenAI, DALL·E
-Other: JWT for authentication, localStorage for theme preferences
+# Frontend:
+HTML, CSS, Vanilla JavaScript (React optional)
+# Backend:
+Node.js, Express.js
+# Database (Optional):
+MongoDB, JSON, or Local File Storage
+# API Integration (Optional): 
+OpenAI, DALL·E
+# Other: 
+JWT for authentication, localStorage for theme preferences
 
