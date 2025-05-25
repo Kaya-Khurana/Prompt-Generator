@@ -5,15 +5,20 @@ A web-based tool for dynamically generating creative prompts for writing, coding
 
 # Features
 
-# Prompt Categories: Explore prompts for Writing, Coding, Art, AI Roleplay, and Learning.
+# Prompt Categories:
+Explore prompts for Writing, Coding, Art, AI Roleplay, and Learning.
 
-# Random Prompt Generation: Create random prompts with filters for difficulty, tone, or length.
+# Random Prompt Generation: 
+Create random prompts with filters for difficulty, tone, or length.
 
-# Custom Prompt Builder: Craft tailored prompts by selecting parameters like tone, subject, or format.
+# Custom Prompt Builder:
+Craft tailored prompts by selecting parameters like tone, subject, or format.
 
-# User Authentication: Secure register/login with JWT-based sessions and Admin/User roles.
+# User Authentication: 
+Secure register/login with JWT-based sessions and Admin/User roles.
 
-# Saved Prompts: Bookmark and manage favorite prompts in a user dashboard.
+# Saved Prompts:
+Bookmark and manage favorite prompts in a user dashboard.
 
 # Prompt Sharing: Copy prompts to clipboard, share to Twitter/Reddit, or export as .txt/.md.
 
