@@ -20,23 +20,32 @@ Secure register/login with JWT-based sessions and Admin/User roles.
 # Saved Prompts:
 Bookmark and manage favorite prompts in a user dashboard.
 
-# Prompt Sharing: Copy prompts to clipboard, share to Twitter/Reddit, or export as .txt/.md.
+# Prompt Sharing:
+Copy prompts to clipboard, share to Twitter/Reddit, or export as .txt/.md.
 
-# Community Prompts: Submit, upvote, or downvote user-generated prompts (admin-reviewed).
+# Community Prompts:
+Submit, upvote, or downvote user-generated prompts (admin-reviewed).
 
-# Prompt History: View and restore past prompts, filtered by date or category.
+# Prompt History:
+View and restore past prompts, filtered by date or category.
 
-# Admin Dashboard: Manage categories, approve/reject prompts, and handle user accounts.
+# Admin Dashboard: 
+Manage categories, approve/reject prompts, and handle user accounts.
 
-# AI Integration (Optional): Use OpenAI or DALL·E APIs for dynamic prompt generation.
+# AI Integration (Optional):
+Use OpenAI or DALL·E APIs for dynamic prompt generation.
 
-# Dark/Light Theme: Toggle themes with preferences saved in localStorage.
+# Dark/Light Theme: 
+Toggle themes with preferences saved in localStorage.
 
-# Daily Prompt: Discover a new Prompt of the Day with notifications.
+# Daily Prompt: 
+Discover a new Prompt of the Day with notifications.
 
-# Gamification (Optional): Earn points, badges, and achievements for engagement.
+# Gamification (Optional):
+Earn points, badges, and achievements for engagement.
 
-# Public API: Access prompts via /api/random or /api/category/:name endpoints.
+# Public API:
+Access prompts via /api/random or /api/category/:name endpoints.
 
 # Tech Stack
 
