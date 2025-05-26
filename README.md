@@ -53,9 +53,9 @@ Access prompts via /api/random or /api/category/:name endpoints.
 HTML, CSS, Vanilla JavaScript ,React 
 # Backend:
 Node.js, Express.js
-# Database (Optional):
+# Database :
 MongoDB, JSON, or Local File Storage
-# API Integration (Optional): 
+# API Integration: 
 OpenAI, DALL·E
 # Other: 
 JWT for authentication, localStorage for theme preferences
