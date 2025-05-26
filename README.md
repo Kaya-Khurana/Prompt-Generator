@@ -50,7 +50,7 @@ Access prompts via /api/random or /api/category/:name endpoints.
 # Tech Stack
 
 # Frontend:
-HTML, CSS, Vanilla JavaScript (React optional)
+HTML, CSS, Vanilla JavaScript ,React 
 # Backend:
 Node.js, Express.js
 # Database (Optional):
