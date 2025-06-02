@@ -59,4 +59,6 @@ MongoDB, JSON, or Local File Storage
 OpenAI, DALL·E
 # Other: 
 JWT for authentication, localStorage for theme preferences
+# Main API:
+Google Gemini
 
